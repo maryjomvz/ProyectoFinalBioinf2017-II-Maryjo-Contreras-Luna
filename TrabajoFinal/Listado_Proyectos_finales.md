@@ -70,7 +70,8 @@ Israel Moreno Contreras [avance 1](https://github.com/Israelornis/ProyectoFinalB
 
 Oscar Villafranco Gutiérrez [avance 1](https://github.com/oskarotenks/TareasCursoBioinfInvRepro/blob/master/ProyectoFinalVillafranco.md)
 
-Contreras Luna Maria J. https://github.com/maryjomvz/ProyectoFinalBioinf2017-II-Maryjo-Contreras-Luna/issues/1
+Contreras Luna Maria J. [avance 1.md.zip](https://github.com/maryjomvz/ProyectoFinalBioinf2017-II-Maryjo-Contreras-Luna/files/944588/avance.1.md.zip)
+
 
 Mariana Pérez Rivera [avance 1](https://github.com/LENTEJITA/ProyectoFinalBioinf2017-II/blob/master/AVANCE%201.md)
 
@@ -81,3 +82,5 @@ Adan Fernando Mar Silva  [avance 1](https://github.com/Ferxengutta/Proyecto-Fina
 Andrea Rebollo Hernández [avance 1](https://github.com/andyrh0402/Tareas-Curso-BioinfInvRepro/blob/master/Avance%201.md)
 
 Carmina Martinez Gonzalez:  [avance 1](https://github.com/MinaMaglez/Trabajo-Final-Bioinformatica/blob/master/Avance%201.md)
+
+
